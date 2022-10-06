@@ -1,0 +1,16 @@
+/* CSS Document */
+
+.manager_error {
+	padding: 4px 8px 6px;
+	display: none;
+	background: #C00;
+		font-family: Tahoma, Geneva, sans-serif;
+		line-height: 16px;
+		font-size: 14px;
+		color: #fff;
+			position: fixed;
+			top: 10px;
+			left: 10px;
+			z-index: 10000000;
+	border-radius: 7px;
+}

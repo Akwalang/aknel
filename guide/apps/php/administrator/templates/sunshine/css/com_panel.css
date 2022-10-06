@@ -1,0 +1,8 @@
+/* CSS Document */
+
+.start-button.caise {
+			position: fixed;
+			bottom: 10px;
+			left: 10px;
+			z-index: 1000000;
+}

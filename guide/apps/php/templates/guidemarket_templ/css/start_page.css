@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.slide_controll {
+	display: none;
+}
+.slide_controll.prev {
+			left: -40px;
+}
+.slide_controll.next {
+			right: -40px;
+}
+
+.content {
+	height: 0px;
+}
+
+.services_inner_menu {
+	height: 0px;
+	margin-top: 30px;
+}

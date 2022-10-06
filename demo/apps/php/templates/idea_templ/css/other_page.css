@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+#logo_scene {
+	width: 663px;
+	height: 60px;
+			top: 142px;
+			left: 0px;
+}
+#menu_scene {
+	width: 663px;
+	height: 78px;
+			top: 164px;
+			left: 0px;
+}
+#scene_to_position {
+			top: 303px;
+			left: 0px;
+}
+#animation_scene {
+	width: 785px;
+	height: 405px;
+}
+#content_scene {
+	width: 620px;
+	height: 405px;
+}
+.ajax_loader {
+	width: 580px;
+			left: 40px;
+			top: 20px;
+}
+
+.left_square {
+	display: none;
+}
